@@ -1,4 +1,4 @@
-/* Reset básico */
+
 * {
     margin: 0;
     padding: 0;
@@ -59,7 +59,6 @@ header a:hover {
     color: var(--accent);
 }
 
-/* Tela principal com foto */
 .inicio {
     padding: 80px 0;
     text-align: center;
